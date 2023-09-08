@@ -1,4 +1,4 @@
-# arne_news
+#arne_news
 
 This is a news app which is better than any news app.
 
