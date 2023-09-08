@@ -1,2 +1,2 @@
-# DailyInfo_app![Screenshot (123)](https://github.com/Kshitij-cse/DailyInfo_app/assets/112082411/ca6c88b4-2863-4898-9407-5c171be61422)
-![Screenshot (67)](https://github.com/Kshitij-cse/DailyInfo_app/assets/112082411/8ddcc772-e3c9-4f2d-8b44-73bebc5068cb)
+# DailyInfo_app!![Screenshot (126)](https://github.com/Kshitij-cse/DailyInfo_app/assets/112082411/30ef0d57-e5bf-42b0-96d8-fbc923cf5e9e)
+![Screenshot (127)](https://github.com/Kshitij-cse/DailyInfo_app/assets/112082411/0c85cb14-1b12-4990-aa48-38f0f53b5d80)
